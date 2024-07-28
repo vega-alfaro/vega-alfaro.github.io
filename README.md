@@ -12,7 +12,6 @@ In my free time I collect postcards, mail stamps and enjoy Brazilian Jiu Jitsu.
 
 - **Licenciate**
   - Description: Costa Rica Institute of Technology, Agronmy.
-  - [View Project](#) (Link to project details or GitHub repository)
 
 - **Master of Science**
   - Description: University of Wisconsin-Madison Plant Breeding and Plant Genetics
