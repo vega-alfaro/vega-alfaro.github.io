@@ -1,4 +1,4 @@
-# Andrey Vega Alfaro's Portfolio
+# Andrey Vega Alfaro Portfolio
 
 Welcome to my professional portfolio website. Here you can find information about my projects, papers, blog posts, and how to contact me.
 
@@ -39,19 +39,15 @@ Here are some of the projects I am working on:
 
 Here are some of my published papers:
 
-- **Linkage Mapping in Carrots**
+- **[Linkage Mapping in Carrots](https://academic.oup.com/g3journal/article/14/4/jkae041/7615243)**
   - Description: This paper explores the genetic architecture of carrot root shape and market class using 2 biparental populations and linkage mapping.
-  - [Read Here]([#](https://academic.oup.com/g3journal/article/14/4/jkae041/7615243)) 
 
 
-- **Carrot Density Trial**
+- **[Carrot Density Trial](https://journals.ashs.org/hortsci/view/journals/hortsci/58/9/article-p996.xml)**
   - Description: This paper explored the effects of high and low planting densities in the *shape* of carrot roots.
-  - [Read Here](https://journals.ashs.org/hortsci/view/journals/hortsci/58/9/article-p996.xml)
 
-- **Pepper Grafting**
+- **[Pepper Grafting](https://journals.ashs.org/horttech/view/journals/horttech/31/6/article-p828.xml)**
   - Description: This paper explores ways to produce high value horticultural crops such as peppers in regions with challenging disease pressure and environmental conditions.
-  - [Read Here](https://journals.ashs.org/horttech/view/journals/horttech/31/6/article-p828.xml)
-
 
 
 ## Contact
